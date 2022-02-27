@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nasa Moon
+* source:	https://sketchfab.com/3d-models/nasa-moon-4e55c453af414a798dd70724c43bbc40
+* author:	gagaball88 (https://sketchfab.com/gagaball88)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nasa Moon" (https://sketchfab.com/3d-models/nasa-moon-4e55c453af414a798dd70724c43bbc40) by gagaball88 (https://sketchfab.com/gagaball88) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
